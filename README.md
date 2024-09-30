@@ -17,33 +17,32 @@ Follow these steps to solve this challenge:
 
 <h2>Tools Used</h2>
 
-- <b>SQL </b>
+- <b> SQL </b>
 
 
 <h2>Environment Used </h2>
 - <b>Data Collection</b> 
-
 - <b>Windows 11</b>
 
 <h2>Project walk-through:</h2>
 
 <p align="center">
-solving the murder and loading the Db sql file and filler it the hit givens:
-  security photo should there is two withness who live last house on "Northwestern Dr" and Annabel, somewhere on "Franklin Ave"<br/>
+solving the murder and loading the Db sql file with the hit givens:
+security photo showed there were two witness who lived at a house on "Northwestern Dr" and Annabel, somewhere on "Franklin Ave"<br/>
 <img src="https://i.imgur.com/krgejJ8.png" height="80%" width="100%" alt="sql Analysis Steps"/>
 <br />
 <br />
-anaylsis and find the the two withness . <br/>
+Analyse and find the the two witness . <br/>
 
   <img src="https://i.imgur.com/ybtekSy.png" height="80%" width="80%" alt="sql analysis steps"/>
   <img src="https://i.imgur.com/GTCJFBi.png" height="80%" width="80%" alt="sql analysis steps"/>
 <br />
 <br />
- getting the withness interview for analysis : <br/>
+ Getting the witness interview for analysis : <br/>
 <img src="https://i.imgur.com/i1XJepW.png" height="80%" width="80%" alt="sql analysis steps"/>
 <br />
 <br />
-Analysis withness and finding the killer.:  <br/>
+Analyse witness interview and finding the killer.:  <br/>
 <img src="https://i.imgur.com/CnhsXR8.png" height="80%" width="80%" alt="sql analysis steps"/>
 <img src="https://i.imgur.com/rmBh8GQ.png" height="80%" width="80%" alt="sql analysis steps"/>
 <br />

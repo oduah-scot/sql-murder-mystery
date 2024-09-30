@@ -49,6 +49,7 @@ Analyse witness interview and finding the killer.:  <br/>
 <br />
 finding the killer through analysis.:  <br/>
 <img src="https://i.imgur.com/kRsbunt.png" height="80%" width="80%" alt="sql analysis steps"/>
+<img src="https://i.imgur.com/xfMnKJT.png" height="80%" width="80%" alt="sql analysis steps"/>
 <br />
 <br />
 Result collected through Insights analysis drawn from the cleaned data was used to find the killer through sql anaysis.:  <br/>

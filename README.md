@@ -27,7 +27,7 @@ Follow these steps to solve this challenge:
 <h2>Project walk-through:</h2>
 
 <p align="center">
-solving the murder and loading the Db sql file with the hit givens:
+solving the murder and loading the Db sql file with the hit given:
 security photo showed there were two witness who lived at a house on "Northwestern Dr" and Annabel, somewhere on "Franklin Ave"<br/>
 <img src="https://i.imgur.com/krgejJ8.png" height="80%" width="100%" alt="sql Analysis Steps"/>
 <br />

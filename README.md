@@ -4,13 +4,10 @@ A crime has taken place and the detective needs your help. The detective gave yo
 
 Follow these steps to solve this challenge:
 - Download the `sql-murder-mystery.db` file 
-- visit www.sqliteonline.com
 - click on file, then open db and load in the database file you downloaded above
 - write your SQL queries to see the different tables and the content
 - use the schema diagram to navigate the different tables
 - figure out who committed the crime with the details you remembered above
-- create a word or txt document that contains your thought process, narrative and SQL codes written to arrive at the solution to the murder mystery
-- submit a link to the word or txt document.
 
 #### [<h2>Certificate of Completion</h2>](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_pu8TfLfGd9fZo75DR_1683623970640_completion_certificate.pdf)
 

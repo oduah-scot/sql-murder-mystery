@@ -41,8 +41,9 @@ Order quantity between 301-1000 falls under 'High End' orders
 
 <p align="center">
 Contents, Reactions and Reactions types Datasets: <br/>
-<img src="https://i.imgur.com/krgejJ8.png" height="80%" width="100%" alt="sql Analysis Steps"/> 
-<img src="https://i.imgur.com/krgejJ8.png" height="80%" width="100%" alt="sql Analysis Steps"/>
+<img src="https://i.imgur.com/mApS3E6.png" height="80%" width="100%" alt="sql Analysis Steps"/> 
+<img src="https://i.imgur.com/FeelKv0.png" height="80%" width="100%" alt="sql Analysis Steps"/>
+<img src="https://i.imgur.com/HsipZmz.png" width="100%" alt="sql Analysis Steps"/>
 <br />
 <br />
 Analyse and find the the two witness . <br/>

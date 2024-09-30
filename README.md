@@ -51,7 +51,7 @@ finding the killer through analysis.:  <br/>
 <img src="https://i.imgur.com/kRsbunt.png" height="80%" width="80%" alt="sql analysis steps"/>
 <br />
 <br />
-Insights are drawn from the cleaned data to find the killer through sql anaysis.:  <br/>
+Result collected through Insights analysis drawn from the cleaned data was used to find the killer through sql anaysis.:  <br/>
 <img src="https://i.imgur.com/LN6oL8k.png" height="80%" width="80%" alt="sql analysis steps"/>
 <img src="https://i.imgur.com/RCia3rE.png" height="80%" width="80%" alt="sql analysis steps"/>
 <br />

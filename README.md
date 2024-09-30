@@ -1,23 +1,36 @@
-# sql-murder-mystery
+### Data Analysis Project
 
-A crime has taken place and the detective needs your help. The detective gave you the crime scene report, but you somehow lost it. You vaguely remember that the crime was a murder that occurred sometime on Jan.15, 2018 and that it took place in SQL City. Start by retrieving the corresponding crime scene report from the police department’s database.
-
-Follow these steps to solve this challenge:
-- Download the `sql-murder-mystery.db` file 
-- click on file, then open db and load in the database file you downloaded above
-- write your SQL queries to see the different tables and the content
-- use the schema diagram to navigate the different tables
-- figure out who committed the crime with the details you remembered above
+Project Questions
+1. create a chart to show the 10 least loyal customers
+2. What percentage of sales come from each outlet type
+3. What producers account for the 5 lowest sales figure
+4. Averae order quantity per category group
+5. make a chart showing the shipping status by outlet type
+6. show the 10 worst perfroming delivery agents
+7. most popular states by sales channel 
+8. 10 VIP customers
+9. percentage of sales volume by sales channel and country
+10. Display sales figure by order category
+NOTE: You need to derive a column that shows the sales figure.
+The unit price column is in naira (NGN) and south african rand (ZAR), depending on the country the sales was made. You might need to convert to dollars as all analysis should be in dollars
+The exchange rate is in the Details sheet
+You need to generate another column that shows order category to answer question 10 above using this rule:
+Order quantity between 0-100 falls under 'Low End' orders
+Order quantity between 101-300 falls under 'Mid End' orders
+Order quantity between 301-1000 falls under 'High End' orders
 
 #### [<h2>Certificate of Completion</h2>](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_pu8TfLfGd9fZo75DR_1683623970640_completion_certificate.pdf)
 
 <h2>Practical Skills Developed</h2>
 
-<b> Teamwork | Strategy | Project Planning | Data Understanding | Data Modeling | sql Analysis | Storytelling | code writing | Presentations | Communication | Public Speaking </b> 
+<b> VLOOKUP | Teamwork | Strategy | Project Planning | Data Understanding | Data Modeling | Data Analysis | Storytelling | Data Visualization | Presentations | Communication | Public Speaking </b> 
 
 <h2>Tools Used</h2>
 
-- <b> SQL </b>
+- <b>Microsoft Microsoft Excel</b>
+- <b>Microsoft Pivot Table</b>
+- <b>Microsoft Power Point</b> 
+
 
 
 <h2>Environment Used </h2>
@@ -27,8 +40,8 @@ Follow these steps to solve this challenge:
 <h2>Project walk-through:</h2>
 
 <p align="center">
-solving the murder and loading the Db sql file with the hit given:
-security photo showed there were two witness who lived at a house on "Northwestern Dr" and Annabel, somewhere on "Franklin Ave"<br/>
+Contents, Reactions and Reactions types Datasets: <br/>
+<img src="https://i.imgur.com/krgejJ8.png" height="80%" width="100%" alt="sql Analysis Steps"/> 
 <img src="https://i.imgur.com/krgejJ8.png" height="80%" width="100%" alt="sql Analysis Steps"/>
 <br />
 <br />

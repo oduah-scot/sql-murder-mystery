@@ -13,7 +13,7 @@ Follow these steps to solve this challenge:
 
 <h2>Practical Skills Developed</h2>
 
-<b> Teamwork | Strategy | Project Planning | Data Understanding | Data Modeling | Data Analysis | Storytelling | code writing | Presentations | Communication | Public Speaking </b> 
+<b> Teamwork | Strategy | Project Planning | Data Understanding | Data Modeling | sql Analysis | Storytelling | code writing | Presentations | Communication | Public Speaking </b> 
 
 <h2>Tools Used</h2>
 
@@ -30,30 +30,31 @@ Follow these steps to solve this challenge:
 <p align="center">
 solving the murder and loading the Db sql file and filler it the hit givens:
   security photo should there is two withness who live last house on "Northwestern Dr" and Annabel, somewhere on "Franklin Ave"<br/>
-<img src="https://i.imgur.com/krgejJ8.png" height="80%" width="100%" alt="Data Analysis Steps"/>
+<img src="https://i.imgur.com/krgejJ8.png" height="80%" width="100%" alt="sql Analysis Steps"/>
 <br />
 <br />
 anaylsis and find the the two withness . <br/>
 
-  <img src="https://i.imgur.com/ybtekSy.png" height="80%" width="80%" alt="Data analysis steps"/>
-  <img src="https://i.imgur.com/GTCJFBi.png" height="80%" width="80%" alt="Data analysis steps"/>
+  <img src="https://i.imgur.com/ybtekSy.png" height="80%" width="80%" alt="sql analysis steps"/>
+  <img src="https://i.imgur.com/GTCJFBi.png" height="80%" width="80%" alt="sql analysis steps"/>
 <br />
 <br />
  getting the withness interview for analysis : <br/>
-<img src="https://i.imgur.com/i1XJepW.png" height="80%" width="80%" alt="Data analysis steps"/>
+<img src="https://i.imgur.com/i1XJepW.png" height="80%" width="80%" alt="sql analysis steps"/>
 <br />
 <br />
 Analysis withness and finding the killer.:  <br/>
-<img src="https://i.imgur.com/CnhsXR8.png" height="80%" width="80%" alt="Data analysis steps"/>
-<img src="https://i.imgur.com/rmBh8GQ.png" height="80%" width="80%" alt="Data analysis steps"/>
+<img src="https://i.imgur.com/CnhsXR8.png" height="80%" width="80%" alt="sql analysis steps"/>
+<img src="https://i.imgur.com/rmBh8GQ.png" height="80%" width="80%" alt="sql analysis steps"/>
 <br />
 <br />
 finding the killer through analysis.:  <br/>
-<img src="https://i.imgur.com/kRsbunt.png" height="80%" width="80%" alt="Data analysis steps"/>
+<img src="https://i.imgur.com/kRsbunt.png" height="80%" width="80%" alt="sql analysis steps"/>
 <br />
 <br />
-Insights are drawn from the cleaned data to design a Visualised powerpoint for presentation.:  <br/>
-<img src="https://i.imgur.com/LkbWLu3.png" height="80%" width="80%" alt="Data analysis steps"/>
+Insights are drawn from the cleaned data to find the killer through sql anaysis.:  <br/>
+<img src="https://i.imgur.com/LN6oL8k.png" height="80%" width="80%" alt="sql analysis steps"/>
+<img src="https://i.imgur.com/RCia3rE.png" height="80%" width="80%" alt="sql analysis steps"/>
 <br />
 
 <!--
